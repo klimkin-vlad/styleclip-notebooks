@@ -6,6 +6,7 @@
 ## Требования к моделям:
 -numpy  
 -torch  
+-torchvision  
 -networkx  
 -sympy  
 -драйвера для CUDA (на CPU не проверялось).  
